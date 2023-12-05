@@ -28,7 +28,7 @@
         <maven-pmd-plugin.version>3.13.0</maven-pmd-plugin.version>
         <exercises.iart.core.version>${project.version}</exercises.iart.core.version>
         <slf4j-api.version>1.7.30</slf4j-api.version>
-        <logback-classic.version>1.2.3</logback-classic.version>
+        <logback-classic.version>1.2.13</logback-classic.version>
     </properties>
 
     <dependencyManagement>
